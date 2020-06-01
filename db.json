@@ -4,27 +4,27 @@
         "lastName": "Bob",
         "age": "Bob",
         "rollNum": "1",
-        "classRegistration": "1"
+        "classRegistration": "yes"
     },
     {
         "firstName": "mat",
         "lastName": "mat",
         "age": "mat",
         "rollNum": "2",
-        "classRegistration": "1"
+        "classRegistration": "yes"
     },
     {
         "firstName": "tom",
         "lastName": "tom",
         "age": "tom",
         "rollNum": "3",
-        "classRegistration": "0"
+        "classRegistration": "no"
     },
     {
         "firstName": "joe",
         "lastName": "joe",
         "age": "Bob",
         "rollNum": "4",
-        "classRegistration": "1"
+        "classRegistration": "yes"
     }
 ]
